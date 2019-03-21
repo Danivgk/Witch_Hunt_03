@@ -1,0 +1,37 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Witch_Hunt-5768.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\Witch_HuntEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\AIController_C.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\ChooseNextWayPoint.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Enemy.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\FallingTree.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\FocusAtPlayer.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\MyActor.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\MyHUD.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\PatrolRoute.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Projectile.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Witch.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\WitchPlayerController.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Witch_Hunt.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Witch_HuntGameModeBase.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\AIController_C.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\ChooseNextWayPoint.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Enemy.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\FallingTree.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\FocusAtPlayer.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\MyActor.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\MyHUD.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\PatrolRoute.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Projectile.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Witch.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\WitchPlayerController.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Witch_Hunt.init.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\Witch_HuntGameModeBase.gen.cpp.obj"
+"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\PCLaunch.rc.res"
+/OUT:"C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\UE4Editor-Witch_Hunt-5768.lib"

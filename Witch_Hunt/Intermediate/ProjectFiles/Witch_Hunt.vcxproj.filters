@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Witch_Hunt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D21DBB64-7DED-4EC1-A6B6-CC57F9566EBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Witch_Hunt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Witch_HuntEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BCDAA041-C239-4015-BD0C-1014D8943D9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Witch_Hunt">
+      <UniqueIdentifier>{AD227967-318B-4831-8548-DA21BB1E3DD4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Witch_Hunt\AIController_C.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\AIController_C.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\CampFire.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\CampFire.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\ChooseNextWayPoint.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\ChooseNextWayPoint.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\Enemy.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\Enemy.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\FallingTree.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\FallingTree.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\MedKit.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\MedKit.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\PatrolRoute.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\PatrolRoute.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\Projectile.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\Projectile.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\Witch.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\Witch.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Witch_Hunt\Witch_Hunt.Build.cs">
+      <Filter>Source\Witch_Hunt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Witch_Hunt\Witch_Hunt.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\Witch_Hunt.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Witch_Hunt\Witch_HuntGameModeBase.cpp">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Witch_Hunt\Witch_HuntGameModeBase.h">
+      <Filter>Source\Witch_Hunt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

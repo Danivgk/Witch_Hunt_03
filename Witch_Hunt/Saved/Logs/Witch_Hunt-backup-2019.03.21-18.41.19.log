@@ -1,0 +1,182 @@
+﻿Log file open, 03/21/19 19:40:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Witch_Hunt
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.406017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Warning: Incompatible or missing module: Witch_Hunt
+Running C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/Daniela/Documents/Unreal Projects/Witch_Hunt/Witch_Hunt.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Creating makefile for Witch_HuntEditor (no existing makefile)
+Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+@progress push 5%
+Parsing headers for Witch_HuntEditor
+  Running UnrealHeaderTool "C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Witch_Hunt.uproject" "C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\Witch_HuntEditor\Development\Witch_HuntEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for Witch_HuntEditor in 8,4029315 seconds
+@progress pop
+Building 23 actions with 12 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 4%
+  [1/23] MedKit.gen.cpp
+  C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Source\Witch_Hunt/Other/MedKit.h(7): fatal error C1083: Cannot open include file: 'Witch.h': No such file or directory
+  @progress 'Compiling C++ source code...' 9%
+  [2/23] Witch_HuntGameModeBase.gen.cpp
+  C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Source\Witch_Hunt/Witch_HuntGameModeBase.h(7): fatal error C1083: Cannot open include file: 'Witch.h': No such file or directory
+  @progress 'Compiling C++ source code...' 13%
+  [3/23] Witch_Hunt.init.gen.cpp
+  @progress 'Compiling C++ source code...' 17%
+  [4/23] PatrolRoute.gen.cpp
+  @progress 'Compiling C++ source code...' 22%
+  [5/23] Projectile.gen.cpp
+  @progress 'Compiling C++ source code...' 26%
+  [6/23] FallingTree.gen.cpp
+  @progress 'Compiling C++ source code...' 30%
+  [7/23] Enemy.gen.cpp
+  @progress 'Compiling C++ source code...' 35%
+  [8/23] Witch.gen.cpp
+  @progress 'Compiling C++ source code...' 39%
+  [9/23] AIController_C.gen.cpp
+  C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Source\Witch_Hunt/AI/AIController_C.h(7): fatal error C1083: Cannot open include file: 'Witch.h': No such file or directory
+  @progress 'Compiling C++ source code...' 43%
+  [10/23] MedKit.cpp
+  c:\users\daniela\documents\unreal projects\witch_hunt\source\witch_hunt\other\MedKit.h(7): fatal error C1083: Cannot open include file: 'Witch.h': No such file or directory
+  @progress 'Compiling C++ source code...' 48%
+  [11/23] CampFire.gen.cpp
+  @progress 'Compiling C++ source code...' 52%
+  [12/23] Projectile.cpp
+  @progress 'Compiling C++ source code...' 57%
+  [13/23] FallingTree.cpp
+  @progress 'Compiling C++ source code...' 61%
+  [14/23] Witch_HuntGameModeBase.cpp
+  c:\users\daniela\documents\unreal projects\witch_hunt\source\witch_hunt\Witch_HuntGameModeBase.h(7): fatal error C1083: Cannot open include file: 'Witch.h': No such file or directory
+  @progress 'Compiling C++ source code...' 65%
+  [15/23] PatrolRoute.cpp
+  @progress 'Compiling C++ source code...' 70%
+  [16/23] Enemy.cpp
+  @progress 'Compiling C++ source code...' 74%
+  [17/23] ChooseNextWayPoint.gen.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [18/23] AIController_C.cpp
+  c:\users\daniela\documents\unreal projects\witch_hunt\source\witch_hunt\ai\AIController_C.h(7): fatal error C1083: Cannot open include file: 'Witch.h': No such file or directory
+  @progress 'Compiling C++ source code...' 83%
+  [19/23] CampFire.cpp
+  @progress 'Compiling C++ source code...' 87%
+  [20/23] Witch.cpp
+  @progress 'Compiling C++ source code...' 91%
+  [21/23] ChooseNextWayPoint.cpp
+ERROR: UBT ERROR: Failed to produce item: C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Binaries\Win64\UE4Editor-Witch_Hunt.dll
+       (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+Total build time: 17,47 seconds (Parallel executor: 0,00 seconds)
+LogInit: Warning: Still incompatible or missing module: Witch_Hunt
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (38)
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+LogModuleManager: Shutting down and abandoning module Landscape (26)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+LogModuleManager: Shutting down and abandoning module Renderer (16)
+LogModuleManager: Shutting down and abandoning module Engine (14)
+LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+LogModuleManager: Shutting down and abandoning module PakFile (2)
+LogExit: Exiting.
+Log file closed, 03/21/19 19:41:19

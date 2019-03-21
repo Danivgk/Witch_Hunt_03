@@ -1,0 +1,18 @@
+﻿  Creating makefile for hot reloading Witch_HuntEditor (source directory changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for Witch_HuntEditor
+    Running UnrealHeaderTool "C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Witch_Hunt.uproject" "C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\Witch_HuntEditor\Development\Witch_HuntEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Witch_HuntEditor in 9,085754 seconds
+  Building 7 actions with 12 processes...
+    [1/7] Witch.gen.cpp
+    [2/7] Witch.cpp
+    [3/7] Projectile.cpp
+    [4/7] AIController_C.cpp
+    [5/7] AIController_C.gen.cpp
+    [6/7] UE4Editor-Witch_Hunt-8906.lib
+       Creating library C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\UE4Editor-Witch_Hunt-8906.lib and object C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\UE4Editor-Witch_Hunt-8906.exp
+    [7/7] UE4Editor-Witch_Hunt-8906.dll
+       Creating library C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\UE4Editor-Witch_Hunt-8906.suppressed.lib and object C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Intermediate\Build\Win64\UE4Editor\Development\Witch_Hunt\UE4Editor-Witch_Hunt-8906.suppressed.exp
+  Deploying Witch_HuntEditor Win64 Development...
+  Total build time: 17,94 seconds (Parallel executor: 2,85 seconds)

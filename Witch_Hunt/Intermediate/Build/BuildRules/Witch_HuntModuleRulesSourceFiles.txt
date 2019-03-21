@@ -1,0 +1,3 @@
+C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Source\Witch_Hunt\Witch_Hunt.Build.cs
+C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Source\Witch_Hunt.Target.cs
+C:\Users\Daniela\Documents\Unreal Projects\Witch_Hunt\Source\Witch_HuntEditor.Target.cs
